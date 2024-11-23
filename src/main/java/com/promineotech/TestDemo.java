@@ -22,7 +22,7 @@ public class TestDemo {
   }
   
 int randomNumberSquared()   {
-  int randomNumber = getRandomNumber();
+  int randomNumber = getRandomInt();
   return randomNumber * randomNumber;
 }
 
